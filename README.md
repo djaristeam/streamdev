@@ -128,7 +128,7 @@ Isi:
 ```
 server {
     listen 80;
-    server_name 139.180.211.8;
+    server_name ip kamu;
 
     location / {
         proxy_pass http://localhost:3000;
