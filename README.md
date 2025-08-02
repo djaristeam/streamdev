@@ -32,7 +32,7 @@ sudo apt install -y git curl wget build-essential ufw nginx
 
 ```bash
 cd /var/www/
-sudo git clone https://github.com/afkarxyz/streamdev.git
+sudo git clone https://github.com/djaristeam/streamdev.git
 cd streamdev
 ```
 
